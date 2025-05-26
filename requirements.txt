@@ -1,5 +1,7 @@
+opencv-python
 streamlit==1.32.2
 tensorflow==2.16.1
 keras==3.0.0
-numpy
-opencv-python
+numpy>=1.23.5
+Pillow>=9.5.0
+opencv-python>=4.8.0.76
